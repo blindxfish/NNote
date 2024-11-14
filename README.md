@@ -21,7 +21,7 @@
 
 ### Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/NNote/releases) page.
+1. Download the latest release from the [Releases](https://nixonsresume.online/index.php/2024/11/14/nnote-2-hous-project-to-fix-windows-sticky-note/) page.
 2. Run the installer and follow the installation instructions.
 3. Once installed, launch NNote and start creating notes!
 

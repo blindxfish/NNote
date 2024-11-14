@@ -6,10 +6,15 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>bin\Release\net8.0-windows\NNote_Icon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="NNote_Icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Release\net8.0-windows\NNote_Icon.ico" />
   </ItemGroup>
 
   <ItemGroup>

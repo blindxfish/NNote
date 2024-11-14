@@ -7,7 +7,7 @@
         Background="{StaticResource BackgroundColor}"
         ResizeMode="CanResize"
         BorderBrush="{StaticResource ButtonColor}"  
-        BorderThickness="2"  
+        BorderThickness="2" 
         MouseLeftButtonDown="Window_MouseLeftButtonDown" WindowStyle="None" Icon="/NNote_Icon.png">
 
     <Grid Margin="10">

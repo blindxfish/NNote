@@ -2,8 +2,6 @@
 
 **NNote** is a minimalist, open-source sticky note application for Windows. Designed to be lightweight and user-friendly, NNote allows you to create simple sticky notes that stay on top of your other windows, with a dark theme that's easy on the eyes. This project was created in just two hours as a quick fix for the limitations of the default Windows sticky notes.
 
-![NNote Screenshot](path_to_screenshot.png) <!-- Add a screenshot link if available -->
-
 ## Features
 
 - **Always on Top**: Pin notes to stay on top of other windows with a single toggle.
